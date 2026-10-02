@@ -8,19 +8,19 @@
 
 ## 🕹️ How to Play
 
-1. **👀 Memorize** — You get 3 seconds to burn a mystery color into your brain.
-2. **🎛️ Recreate** — Tweak the sliders until your swatch feels *just right*.
-3. **💥 Reveal** — See your guess side-by-side with the real deal and claim your accuracy score.
-4. **🏆 Flex** — Finish 3 rounds, check your average accuracy, and share your score to challenge your friends.
+1. **👀 Memorize** — You get 3 seconds to burn a mystery color into your brain
+2. **🎛️ Recreate** — Tweak the sliders until your swatch feels *just right*
+3. **💥 Reveal** — See your guess side-by-side with the real deal and claim your accuracy score
+4. **🏆 Flex** — Finish 3 rounds, check your average accuracy, and share your score to challenge your friends
 
 ---
 
 ## ✨ Features
 
-- **3 Quick Rounds** — Fast, casual, and endlessly replayable.
-- **Human Eye Science** — Scoring uses real color perception science (Oklab space), so subtle shade differences score accurately.
-- **Satisfying Sound Effects** — Synthesized clicks, slider pops, reveal whooshes, and victory fanfares built in.
-- **100% Offline & Private** — No logins, no tracking, no databases. Just color.
+- **3 Quick Rounds** — Fast, casual, and endlessly replayable
+- **Human Eye Science** — Scoring uses real color perception science (Oklab space), so subtle shade differences score accurately
+- **Satisfying Sound Effects** — Synthesized clicks, slider pops, reveal whooshes, and victory fanfares built in
+- **100% Offline & Private** — No logins, no tracking, no databases. Just color
 
 ---
 
